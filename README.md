@@ -14,4 +14,4 @@ Instead of using a number ID for each message, it uses a string to identify it, 
 
 # Ways to improve it
 
-1 When the program gets the JSON input for the first time, check for consistency, to verify the dialog is a valid one.
+1. When the program gets the JSON input for the first time, check for consistency, to verify the dialog is a valid one.
