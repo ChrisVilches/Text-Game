@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "sourceMap":  true, 
+        "target": "es5",
+        "outFile": "js/main.js"
+    },
+    "files": [
+        "src/dialog.ts"
+
+    ]
+}

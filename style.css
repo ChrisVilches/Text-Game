@@ -1,0 +1,27 @@
+body {
+	background-color: #050505;
+}
+
+#main-message {
+	color: #afafaf;
+	font-size: 22px;
+	margin: 5px;
+}
+
+#options button{
+	background-color: #282828;
+	border: none;
+	margin: 5px;
+	padding: 15px;
+	color:#afafaf;
+}
+
+#container{
+	margin: 0 auto;
+	width: 550px;
+	border: 1px solid #454545;
+	border-radius: 7px;
+	text-align:center;
+	padding:20px;
+	margin-top: 20px;
+}
